@@ -23,4 +23,3 @@ Also:
 2. In the frontend folder: `npm start`
 
 - http://localhost:3000/
-"# todo-app" 
