@@ -103,5 +103,6 @@ dist
 .tern-port
 
 # Env
-.env
+backend/.env
+
 
