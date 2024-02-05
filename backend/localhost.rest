@@ -1,0 +1,22 @@
+POST http://localhost:5000/save
+content-type: application/json
+
+{
+  "text": "sell sausages"
+}
+###
+POST http://localhost:5000/update
+content-type: application/json
+
+{
+  "text": ""
+}
+###
+POST http://localhost:5000/delete
+content-type: application/json
+
+{
+  "text": ""
+}
+###
+GET http://localhost:5000/
