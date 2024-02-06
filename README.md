@@ -11,11 +11,11 @@ Node, Express and MongoDB backend & React frontend
 
 + Backend folder: `nodemon Server.js`
 
-  + http://localhost:5000/
-  + http://localhost:5000/save
-  + http://localhost:5000/update
-  + http://localhost:5000/delete
+> http://localhost:5000/
+> http://localhost:5000/save
+> http://localhost:5000/update
+> http://localhost:5000/delete
 
 + Frontend folder: `npm start`
 
-  + http://localhost:3000/
+> http://localhost:3000/
